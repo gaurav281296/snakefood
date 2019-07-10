@@ -1,3 +1,12 @@
+This is a fork for the snakefood: Python dependency graph generator.
+
+The orignal sfood-graph would generate a colorless graphviz file.
+It is difficult to trace an edge from source to destination if there are complicated dependencies.
+This tool gives a random color to the graph edges that make it easier to trace the dependencies.
+
+
+
+
 =========================================
    snakefood: Python Dependency Graphs
 =========================================
